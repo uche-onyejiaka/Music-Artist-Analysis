@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎧 Music Similarity Analysis  
 **INST 414: Data Science Techniques**  
 Created by Uche K.
@@ -89,3 +90,6 @@ Feel free to fork, remix, or reach out.
 
 This was built as part of my INST 414 course at the University of Maryland — but it's something I could easily see becoming a personal playlist tool or even a plug-in for recommendation engines.
 
+=======
+# Music-Artist-Analysis
+>>>>>>> 04170b9e4028c2c900d9c813e3324ffb26932286
